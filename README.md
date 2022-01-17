@@ -1,4 +1,4 @@
-### Hello,
+# Hello,
 -I'm Swati.
 
 -I'm a Computer Science student, currently learning C, Java, Intermediate-CSS, etc.
@@ -12,3 +12,7 @@ I'm good at:
 I wish to learn:
 * JavaScript
 * and many more technologies....
+
+## Certifications
+* [freeCodeCamp's Responsive Web Design](https://www.freecodecamp.org/certification/safirangi/responsive-web-design)
+* MATLAB Basics Course: [MatLab Certificate.pdf](https://github.com/Safirangi/Safirangi/files/7883549/MatLab.Certificate.pdf)
