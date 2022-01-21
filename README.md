@@ -1,7 +1,5 @@
 # Hello, I'm Swati
 
-![Profile Views](https://komarev.com/ghpvc/?username=Safirangi&style=flat-square&color=e63946)
-
 ![swati profile](swati.png)
 
 - I'm a Computer Science student, currently learning C, Java, Intermediate-CSS, etc.
