@@ -1,6 +1,6 @@
 # Hello, I'm Swati
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Safirangi.Safirangi)
+![Profile Views](https://komarev.com/ghpvc/?username=Safirangi&style=flat-square&color=e63946)
 
 ![swati profile](swati.png)
 
