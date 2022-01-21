@@ -1,10 +1,10 @@
 # Hello, I'm Swati
 
--I'm a Computer Science student, currently learning C, Java, Intermediate-CSS, etc.
+- I'm a Computer Science student, currently learning C, Java, Intermediate-CSS, etc.
 
--Participating in #100DaysOfCode since January 01, 2022, aiming to learn Intermediate CSS, Responsive Web Design, JavaScript, Java and many more technologies.
+- Participating in #100DaysOfCode since January 01, 2022, aiming to learn Intermediate CSS, Responsive Web Design, JavaScript, Java and many more technologies.
 
--[My Portfolio](https://safirangi.github.io/Portfolio-safirangi/)
+[My Portfolio](https://safirangi.github.io/Portfolio-safirangi/)
 
 I'm good at:
 * HTML
