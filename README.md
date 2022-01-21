@@ -1,6 +1,6 @@
 # Hello, I'm Swati
 
-![swati profile]()
+![swati profile](swati.png)
 
 - I'm a Computer Science student, currently learning C, Java, Intermediate-CSS, etc.
 
