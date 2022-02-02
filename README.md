@@ -2,7 +2,7 @@
 
 ![swati profile](swati.png)
 
-- I'm a Computer Science student, currently learning C, Java, Intermediate-CSS, etc.
+- I'm a Computer Science student, knowledgeable in HTML & CSS (Basics).
 
 - Participating in #100DaysOfCode since January 01, 2022, aiming to learn Intermediate CSS, Responsive Web Design, JavaScript, Java and many more technologies.
 
@@ -10,7 +10,11 @@
 
 [My Portfolio](https://safirangi.github.io/Portfolio-safirangi/)
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Safirangi&layout=compact)        
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Safirangi&layout=compact)  
+ 
+ ### Project Ideas
+ - Photo Gallery Webpage of my clicked gallery.
+ - Music Player Website (HTML, CSS, JavaScript).
 
 ## Certifications
 * [freeCodeCamp's Responsive Web Design](https://www.freecodecamp.org/certification/safirangi/responsive-web-design)
