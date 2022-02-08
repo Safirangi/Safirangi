@@ -2,10 +2,9 @@
 
 ![swati profile](swati.png)
 
-- I'm a Computer Science student, knowledgeable in HTML & CSS (Basics).
-
+- I'm an Undergrad Student, studying Computer Science Engineering at BMS College of Engineering, Bangalore. (2020 - 2024).
+- I work on creating websites, using HTML and CSS, and make them responsive and accessible.
 - Participating in #100DaysOfCode since January 01, 2022, aiming to learn Intermediate CSS, Responsive Web Design, JavaScript, Java and many more technologies.
-
 - Languages and Technologies I'm learning : HTML, CSS (Basic & Intermediate), C, Java, JavaScript.
 
 [My Portfolio](https://safirangi.github.io/Portfolio-safirangi/)
