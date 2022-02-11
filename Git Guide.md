@@ -12,7 +12,7 @@ git config --global user.name "your_name_here"
 ```
 
 ### Initializing a repository
-- To get started, you can create a new repository on the GitHub website or perform a git init to create a new repository from your project directory.
+- To get started, you can create a new repository on the GitHub website or perform a `git init` to create a new repository from your project directory(local directory).
 - The repository consists of three ‘trees.’ First is the *working directory*, which holds the actual files. The second one is the *index or the staging area*. Then there’s the *head*,
  which points to the last commit you made.
 - If you aren’t going to create a new repository, you probably want to clone an existing repository.
