@@ -63,6 +63,8 @@ adding anything just yet. You’re bringing new files and changes to Git’s att
 - To delete a branch, run the command `git branch -d branch_name`
 - The deleted branch is not available to anyone else unless pushed the branch to the remote repository with the command `git push origin branch_name`
 
+### Untracking a file 
+- To untrack a file, use `rm -rf filename` command.
 
 ## Source
 [Getting started with Git and GitHub: The Complete Beginner’s Guide by Anne Bonner](https://medium.com/towards-data-science/getting-started-with-git-and-github-6fcd0f2d4ac6)
