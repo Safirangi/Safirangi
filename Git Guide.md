@@ -66,6 +66,12 @@ adding anything just yet. You’re bringing new files and changes to Git’s att
 ### Untracking a file 
 - To untrack a file, use `rm -rf filename` command.
 
+### Changing Default Editor to VS Code
+- To change the default code editor in git, run `git config --global core.editor "code --wait"`.
+
+### Opening Editor 
+- TO open editor from git bash, run `git config --global -e`.
+
 ## Source
 [Getting started with Git and GitHub: The Complete Beginner’s Guide by Anne Bonner](https://medium.com/towards-data-science/getting-started-with-git-and-github-6fcd0f2d4ac6)
 	
