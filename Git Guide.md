@@ -74,5 +74,6 @@ adding anything just yet. You’re bringing new files and changes to Git’s att
 
 ## Source
 [Getting started with Git and GitHub: The Complete Beginner’s Guide by Anne Bonner](https://medium.com/towards-data-science/getting-started-with-git-and-github-6fcd0f2d4ac6)
+
 [Git Course for Beginners by Mosh](https://www.youtube.com/watch?v=8JJ101D3knE)
 
