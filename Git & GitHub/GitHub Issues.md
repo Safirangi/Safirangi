@@ -12,5 +12,22 @@ good idea in the early stages of your project when you're still getting a feel f
 
 ### Best Practice 2: Encourage Search to Avoid Duplication
 
+### How to associate commits with GitHub issues
+- To link a commit to a GitHub Issue, put the issue number with the # character in the Comment text box. For example, #111.
+- To close a GitHub issue, put a keyword and put the issue number with the # character in the Comment text box. For example, Close #111.
+- Keywords to close a GitHub Issue : To close a GitHub issue, you can use any of the following keywords:
+  - Close
+  - Closes
+  - Closed
+  - Fix
+  - Fixes
+  - Fixed
+  - Resolve
+  - Resolves
+  - Resolved
+
+### Referencing related commits in an Issue
+Commits can be referenced in an Issue Comment by writing the SHA-hash of the commit, and it'll automatically get turned into a link.
+
 
 ### Source : [Best Practices for Using GitHub Issues](https://www.backhub.co/blog/best-practices-for-using-github-issues)
