@@ -9,10 +9,6 @@
 [My Portfolio](https://safirangi.github.io/Portfolio-safirangi/)
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Safirangi&layout=compact)  
- 
- ### Project Ideas
- - Photo Gallery Webpage of my clicked gallery.
- - Music Player Website (HTML, CSS, JavaScript).
 
 ## Certifications
 * [freeCodeCamp's Responsive Web Design](https://www.freecodecamp.org/certification/safirangi/responsive-web-design)
