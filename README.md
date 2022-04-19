@@ -27,7 +27,6 @@ I'm also interested in Open Source Software & Contributions.<br>
 
 ## Certifications
 [freeCodeCamp's Responsive Web Design](https://www.freecodecamp.org/certification/safirangi/responsive-web-design)<br>
-MATLAB Basics Course: [MatLab Certificate.pdf](https://github.com/Safirangi/Safirangi/files/7883549/MatLab.Certificate.pdf)<br>
 
 
 
