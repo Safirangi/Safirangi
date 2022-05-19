@@ -6,14 +6,12 @@
 
 <div align="center">
  
-I'm an Undergrad Student, studying Computer Science Engineering at BMS College of Engineering, Bangalore. (2020 - 2024).<br>
+I'm a Front-End Dev and enthusiast, currently learning JavaScript. I'm also an Open Source Contributor.<br>
 I work on creating websites, using HTML and CSS, and make them responsive and accessible.<br>
-Participating in #100DaysOfCode since January 01, 2022, aiming to learn Intermediate CSS, Responsive Web Design, JavaScript, Java and many more technologies.<br>
-I'm also interested in Open Source Software & Contributions.<br>
  
- </div>
+</div>
 
-*[My Portfolio](https://safirangi.github.io/Portfolio-safirangi/)*
+<!--*[My Portfolio](https://safirangi.github.io/Portfolio-safirangi/)*-->
 
 ## Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
