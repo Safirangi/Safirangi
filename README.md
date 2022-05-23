@@ -6,8 +6,8 @@
 
 <div align="center">
  
-I'm a Front-End Dev and enthusiast, currently learning JavaScript. I'm also an Open Source Contributor.<br>
-I work on creating websites, using HTML and CSS, and make them responsive and accessible.<br>
+I'm a Front-End Dev and enthusiast, currently learning JavaScript. I work on creating websites, using HTML and CSS, and make them responsive and accessible.<br>
+I'm also an Open Source Contributor, looking for ways to add value to code and community.<br>
  
 </div>
 
