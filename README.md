@@ -2,8 +2,6 @@
 
 # Hello, I'm Swati
 
-![swati profile](dazzle.png)
-
 <div align="center">
  
 I'm a Front-End Dev and enthusiast, currently learning JavaScript. I work on creating websites, using HTML and CSS, and make them responsive and accessible.<br>
