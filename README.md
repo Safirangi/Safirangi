@@ -16,6 +16,11 @@ I'm also an Open Source Contributor, looking for ways to add value to code and c
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+<br>
+ 
+<br>
+ 
+ ![github stats](https://github-readme-stats.vercel.app/api?username=Safirangi)
  
 <br>
 
