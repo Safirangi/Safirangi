@@ -3,8 +3,6 @@
 # Hello, I'm Swati
 
 <div align="center">
-
-[![@safirangi's Holopin board](https://holopin.io/api/user/board?user=safirangi)](https://holopin.io/@safirangi)
  
 I'm a Front-End Dev and enthusiast, currently learning JavaScript. I work on creating websites, using HTML and CSS, and make them responsive and accessible.<br>
 I'm also an Open Source Contributor, looking for ways to add value to code and community.<br>
@@ -27,6 +25,14 @@ I'm also an Open Source Contributor, looking for ways to add value to code and c
 <br>
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Safirangi&layout=compact) 
+ 
+<br>
+
+## Hacktoberfest 2022
+
+[![@safirangi's Holopin board](https://holopin.io/api/user/board?user=safirangi)](https://holopin.io/@safirangi)
+
+<br>
 
 ## Certifications
 [freeCodeCamp's Responsive Web Design](https://www.freecodecamp.org/certification/safirangi/responsive-web-design)<br>
