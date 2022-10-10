@@ -3,6 +3,8 @@
 # Hello, I'm Swati
 
 <div align="center">
+
+[![@safirangi's Holopin board](https://holopin.io/api/user/board?user=safirangi)](https://holopin.io/@safirangi)
  
 I'm a Front-End Dev and enthusiast, currently learning JavaScript. I work on creating websites, using HTML and CSS, and make them responsive and accessible.<br>
 I'm also an Open Source Contributor, looking for ways to add value to code and community.<br>
