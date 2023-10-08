@@ -37,6 +37,8 @@ I'm also an Open Source Contributor, looking for ways to add value to code and c
 ## Certifications
 [freeCodeCamp's Responsive Web Design](https://www.freecodecamp.org/certification/safirangi/responsive-web-design)<br>
 
+[Introduction to Linux (edX course)](https://github.com/Safirangi/Safirangi/blob/main/1BM20CS167-Introduction-to-Linux.pdf)<br>
+
 
 
 ### Reach me:
