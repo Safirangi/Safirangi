@@ -24,10 +24,6 @@ I'm also an Open Source Contributor, looking for ways to add value to code and c
  
 <br>
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Safirangi&layout=compact) 
- 
-<br>
-
 ## Hacktoberfest 2022
 
 [![@safirangi's Holopin board](https://holopin.io/api/user/board?user=safirangi)](https://holopin.io/@safirangi)
